@@ -1,7 +1,6 @@
 {
     "extends": [],
     "onboarding": false,
-    "requiredConfig": "ignored",
     "enabledManagers": [
         "regex"
     ],
