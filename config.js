@@ -1,5 +1,6 @@
 module.exports = {
-"extends": [],
+  "extends": [],
+  "onboarding": false,
   "requiredConfig": "ignored",
   "enabledManagers": ["regex"],
   "regexManagers": [
